@@ -1,0 +1,38 @@
+.title{
+background: fixed; 
+background-color: rgb(165, 42, 42);
+}
+.mytitle{
+    color:white;
+    text-align: center;}
+    .style-italic{
+        font-style: italic;
+    }
+    .weight-bold{
+        font-weight: bold;
+    }
+    .style-ital-blue{
+        font-style: italic;
+        color: blue;
+        font-weight: bold;
+    }
+    .auto{
+        margin-left: 500px; 
+    margin-right: 500px;   }
+    .auto_border{
+        border-color: black;
+        border-width: 3px;
+    border-style: dashed;
+    }
+    .style-blue{
+        color: blue;
+    }
+    .txt{
+        font-size: 18px;
+    }
+    .basement{
+        font-size: 20px;
+        color: white;
+        background-color: black;
+        text-align: center
+    }
